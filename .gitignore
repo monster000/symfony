@@ -1,0 +1,9 @@
+app/bootstrop*
+
+*/cache/*
+*/logs/*
+/vendor/*
+web/uploads/*
+web/bundles/*
+
+/app/config/parameters.ini
